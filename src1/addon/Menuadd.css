@@ -1,0 +1,14 @@
+.addi{
+    background-image: url(../images/Gim.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+ .addi {
+ padding-left: 100px;
+}
+.addi button{
+    margin-top: 10px;
+    background-color:firebrick;
+    border-radius: 20px;
+    padding: 0px 20px 0px 20px ;
+}
