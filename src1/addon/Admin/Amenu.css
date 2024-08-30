@@ -1,0 +1,15 @@
+.man table,th,td{
+    border: 1px solid; 
+    margin-top: 20px;
+}
+.men{
+    
+    display: flex;
+
+}
+.man{
+    margin-left: 100px;
+}
+.men{
+    display: flex;
+}
