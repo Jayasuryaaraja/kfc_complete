@@ -1,0 +1,49 @@
+.footer{
+    
+    background-color: black;
+    color: aliceblue;
+}
+.footer1{
+    display: flex;
+}
+.footimg img{
+    /* margin-top: 25px; */
+    padding-left: 50px
+}
+.fotlist {
+    display: flex;
+    /* padding-top: 50px; */
+
+}
+.fotlist ul li{
+    list-style: none;
+    font-size:small;
+}
+.floct{
+    display: flex;
+}
+.para{
+    padding-left: 450px; 
+    margin-top: 50px;
+}
+.ikon{
+    padding-left: 1200px;
+}
+.footer1{
+    padding-top: 50px;
+}
+.footer2 img{
+    padding-left: 30px;
+}
+.ikon{
+    padding-right: 50px;
+    font-size:x-large;
+    color:white;
+}
+.fotkind{
+color: red;
+display: flex;
+}
+.foti{
+    color: red;
+}

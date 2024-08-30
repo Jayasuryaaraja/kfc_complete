@@ -1,0 +1,23 @@
+.rw{
+    display: flex;
+    margin: 30px;
+    gap:10px;
+}
+
+.rw1{
+    display: flex;
+    margin: 30px;
+    gap:10px;
+
+}    
+.rw img{
+    width: 300px;
+}
+  
+.pic img{
+    width:99%
+}
+.rw1 img{
+    width:250px;
+    gap: 10px;
+}
