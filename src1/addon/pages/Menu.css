@@ -1,0 +1,21 @@
+.sr input{
+width: 150px;
+border-radius: 20px;
+}
+.kfmenu{
+    padding-left: 100px;
+}
+.row ul li{
+    list-style: none;
+    font-size: medium;
+    font-weight: bolder;
+    
+}
+.card img{
+    height: 300px;
+    width: 100%;
+    
+}
+.card{
+    margin-bottom: 10px;
+}

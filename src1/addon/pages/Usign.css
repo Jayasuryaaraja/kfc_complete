@@ -1,0 +1,42 @@
+.sin{
+    margin-top: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.ll{
+    margin-left: 130px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.h{
+    margin-left: 100px;
+}
+.titl{
+    font-size: small;
+    font-weight: bolder;
+}
+.p{
+    margin-top: 10px;
+    margin-left: 130px;
+}
+.wd{
+    margin-top: 20px;
+    font-size:10px;
+}
+.btt button{
+    margin-left: 105px;
+    border-radius: 20px;
+    background-color: black;
+    color: beige;
+    padding: 0px 20px 0px 20px;
+    margin-bottom: 10px;
+}
+.o{
+    margin-left: 150px;
+}
+.bbt button{
+  height: 50px;
+    margin-bottom: 20px;
+    width: 350px;
+    border-radius: 20px;
+}
